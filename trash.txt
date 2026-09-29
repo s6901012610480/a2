@@ -1,0 +1,6 @@
+plastic
+food
+paper
+wrapper
+plastic
+food
